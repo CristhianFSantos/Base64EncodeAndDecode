@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64EncodeAndDecode", "Base64EncodeAndDecode.csproj", "{7F7AFDD3-D150-4039-A120-F2F56ACAADF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7AFDD3-D150-4039-A120-F2F56ACAADF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7AFDD3-D150-4039-A120-F2F56ACAADF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7AFDD3-D150-4039-A120-F2F56ACAADF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7AFDD3-D150-4039-A120-F2F56ACAADF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2D4F01-37B0-4B0B-A988-73BA025B3B6E}
+	EndGlobalSection
+EndGlobal
